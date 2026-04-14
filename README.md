@@ -6,7 +6,7 @@
 
 ## 🔗 Démo en ligne
 
-👉 [[Voir le portfolio](https://votre-lien-github-pages.github.io)] : (https://nnangassejb10.github.io/Electricien/)  
+[[Voir le portfolio](https://votre-lien-github-pages.github.io)] 👉: (https://nnangassejb10.github.io/Electricien/)  
 
 
 

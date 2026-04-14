@@ -6,15 +6,9 @@
 
 ## 🔗 Démo en ligne
 
-👉 [Voir le portfolio](https://votre-lien-github-pages.github.io)  
-*(Remplacez ce lien par votre vrai lien GitHub Pages une fois publié)*
+[[Voir le portfolio](https://votre-lien-github-pages.github.io)] 👉: (https://nnangassejb10.github.io/Electricien/)  
 
----
 
-## 📸 Aperçu
-
-![Aperçu du portfolio](images/preview.png)  
-*(Ajoutez une capture d'écran du site dans le dossier `images/`)*
 
 ---
 
